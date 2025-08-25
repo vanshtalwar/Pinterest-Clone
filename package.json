@@ -13,7 +13,7 @@
     "preview": "vite preview",
     "lint": "eslint . --fix",
     "format": "prettier --write src/",
-    "deploy": "gh-pages -d dist"
+    "deploy": "./buildscript.sh"
   },
   "dependencies": {
     "@tailwindcss/vite": "^4.1.12",
