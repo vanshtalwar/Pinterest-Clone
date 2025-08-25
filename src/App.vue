@@ -14,7 +14,6 @@ import Gallery from './components/Gallery.vue';
       <TopBar />
       <Gallery />
     </div>
-
   </div>
 
 </template>
